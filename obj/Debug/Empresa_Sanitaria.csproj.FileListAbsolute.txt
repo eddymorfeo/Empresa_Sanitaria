@@ -1,0 +1,12 @@
+C:\Users\EDWARD\OneDrive - Aiep\SEMESTRE 02\TALLER DE PROGRAMACION\Pruebas\Prueba 3 Nacional\Empresa_Sanitaria\bin\Debug\Empresa_Sanitaria.exe.config
+C:\Users\EDWARD\OneDrive - Aiep\SEMESTRE 02\TALLER DE PROGRAMACION\Pruebas\Prueba 3 Nacional\Empresa_Sanitaria\bin\Debug\Empresa_Sanitaria.exe
+C:\Users\EDWARD\OneDrive - Aiep\SEMESTRE 02\TALLER DE PROGRAMACION\Pruebas\Prueba 3 Nacional\Empresa_Sanitaria\bin\Debug\Empresa_Sanitaria.pdb
+C:\Users\EDWARD\OneDrive - Aiep\SEMESTRE 02\TALLER DE PROGRAMACION\Pruebas\Prueba 3 Nacional\Empresa_Sanitaria\obj\Debug\Empresa_Sanitaria.csproj.AssemblyReference.cache
+C:\Users\EDWARD\OneDrive - Aiep\SEMESTRE 02\TALLER DE PROGRAMACION\Pruebas\Prueba 3 Nacional\Empresa_Sanitaria\obj\Debug\Empresa_Sanitaria.Form1.resources
+C:\Users\EDWARD\OneDrive - Aiep\SEMESTRE 02\TALLER DE PROGRAMACION\Pruebas\Prueba 3 Nacional\Empresa_Sanitaria\obj\Debug\Empresa_Sanitaria.Listar_Requerimiento.resources
+C:\Users\EDWARD\OneDrive - Aiep\SEMESTRE 02\TALLER DE PROGRAMACION\Pruebas\Prueba 3 Nacional\Empresa_Sanitaria\obj\Debug\Empresa_Sanitaria.Properties.Resources.resources
+C:\Users\EDWARD\OneDrive - Aiep\SEMESTRE 02\TALLER DE PROGRAMACION\Pruebas\Prueba 3 Nacional\Empresa_Sanitaria\obj\Debug\Empresa_Sanitaria.Registro_Requerimiento.resources
+C:\Users\EDWARD\OneDrive - Aiep\SEMESTRE 02\TALLER DE PROGRAMACION\Pruebas\Prueba 3 Nacional\Empresa_Sanitaria\obj\Debug\Empresa_Sanitaria.csproj.GenerateResource.cache
+C:\Users\EDWARD\OneDrive - Aiep\SEMESTRE 02\TALLER DE PROGRAMACION\Pruebas\Prueba 3 Nacional\Empresa_Sanitaria\obj\Debug\Empresa_Sanitaria.csproj.CoreCompileInputs.cache
+C:\Users\EDWARD\OneDrive - Aiep\SEMESTRE 02\TALLER DE PROGRAMACION\Pruebas\Prueba 3 Nacional\Empresa_Sanitaria\obj\Debug\Empresa_Sanitaria.exe
+C:\Users\EDWARD\OneDrive - Aiep\SEMESTRE 02\TALLER DE PROGRAMACION\Pruebas\Prueba 3 Nacional\Empresa_Sanitaria\obj\Debug\Empresa_Sanitaria.pdb
